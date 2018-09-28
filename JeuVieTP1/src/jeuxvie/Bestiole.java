@@ -2,7 +2,7 @@ package jeuxvie;
 
 public class Bestiole {
 	
-	public static final String VIVANTE = "vert";
+	public static final String VIVANTE = "verte";
 	public static final String MORTE = "rouge";
 	public static final String VIRTUELLE = "noire";
 	
